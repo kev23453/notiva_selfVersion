@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1240ed9c-4bde-4eae-afa2-d3864a33038c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/App/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/App/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/App/conexion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Dashboard$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Dashboard$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Dashboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Dashboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Login$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Login$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Login$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Login$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Login$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Login$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Login$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Register$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Register$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Register$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Register$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/avatar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/avatar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/datosPersonales$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/datosPersonales$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/datosPersonales$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/datosPersonales$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/datosPersonales.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/datosPersonales.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/tareas/NuevaTarea.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/tareas/NuevaTarea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUI/tareas/tareasFeedInicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUI/tareas/tareasFeedInicio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Modules/Sesion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Modules/Sesion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Modules/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Modules/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/conexion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/avatar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/avatar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/datosPersonales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/datosPersonales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/tareas/NuevaTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/tareas/NuevaTarea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/tareas/tareasFeedInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/tareas/tareasFeedInicio.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="312H7yT7RKBAtcMi6FKxEzuj5rt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1240ed9c-4bde-4eae-afa2-d3864a33038c" name="Changes" comment="" />
+      <created>1754715086633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754715086633</updated>
+    </task>
+    <servers />
+  </component>
+</project>
