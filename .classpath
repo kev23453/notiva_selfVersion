@@ -8,13 +8,22 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="com.jgoodies.forms_1.9.0.v20240327-0800.jar"/>
 	<classpathentry kind="lib" path="com.jgoodies.common_1.8.1.v20240327-0800.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/mr_ga/Downloads/mysql-connector-j-9.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/mr_ga/Downloads/jcommon-1.0.23.jar">
+=======
+	<classpathentry kind="lib" path="C:/ITLA/mysql-connector-j-9.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/ITLA/jcommon-1.0.23.jar">
+>>>>>>> c05e6f45a59017a9ec0bbbe01206e353fc25165e
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/mr_ga/Downloads/jfreechart-1.0.19.jar">
+=======
+	<classpathentry kind="lib" path="C:/ITLA/jfreechart-1.0.19.jar">
+>>>>>>> c05e6f45a59017a9ec0bbbe01206e353fc25165e
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
