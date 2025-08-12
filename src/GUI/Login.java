@@ -6,6 +6,7 @@
 package GUI;
 
 import App.conexion;
+import GUI.feed.Feed;
 import Modules.User;
 import java.awt.Color;
 import java.awt.Component;
@@ -114,9 +115,10 @@ public class Login extends JFrame {
                 String password = new String(Login.this.txtPassword.getPassword());
                 User user = conexion.loginAndGetUser(email, password);
                 if (user != null) {
-                    JOptionPane message = new JOptionPane();
-                    JOptionPane.showMessageDialog((Component)null, "Bienvenido " + user.getUserName());
+                	System.out.println("Bienvenido");
                     User.setCurrentUser(user);
+                    /*Feed feedInicio = new Feed();
+                    feedInicio.setVisible(true);*/
                     Dashboard dashboard = new Dashboard();
                     dashboard.frame.setVisible(true);
                     Login.this.frame.dispose();

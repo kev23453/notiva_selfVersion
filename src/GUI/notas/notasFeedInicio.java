@@ -115,6 +115,11 @@ public class notasFeedInicio extends JFrame {
             this.fecha = f;
         }
     }
+    
+    
+    
+    
+    
     // Se obtiene el contenido desde la base de datos  mediante el título
     public void agregarNotaAlFeed(String titulo, String fecha) {
         String contenido = "";
@@ -158,6 +163,12 @@ public class notasFeedInicio extends JFrame {
         panelNotas.repaint();
         posicionY += 60;
     }
+    
+    
+    
+    
+    
+    
 
     public void cargarNotasDesdeBD() {
         try (Connection cx = App.conexion.obtenerConexion()) {
